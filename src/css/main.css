@@ -1,0 +1,88 @@
+ul.menu li {
+    list-style: none;
+    display:inline-block;
+    padding: 15px 20px;
+    font-size:20px;
+    
+}
+ul.menu li a{
+    text-decoration: none;
+
+}
+.Home-area{
+    height:100vh;
+    width:100%;
+    background: url("/home/maherun/my-portfolio/src/components/img/2.jpg") no-repeat center;
+	
+}
+.container-about{
+    
+    height:100vh;
+    width:100%;
+    background-color: #ecf0f1;
+
+
+}
+.container-about .pic {
+	height: 273px;
+	width: 433px;
+	background-color: black;
+	margin-left: 151px;
+    
+}
+.container-about .About-text {
+	margin-top: -226px;
+	height: 273px;
+	width: 433px;
+	margin-left: 663px;
+    
+}
+.Head{
+    padding-top: 30px;
+}
+
+.Head p {
+	height: 25px;
+	width: 93px;
+	background-color: yellow;
+	margin-left: 579px;
+	
+}
+.body {
+    height: 500px;
+    width:100%;
+  
+}
+.body-element-1{
+	height: 300px;
+	width: 630px;
+	margin-top: 65px;
+	
+}
+.body .body-element-2{
+    width:200px;
+}
+h2 {
+	height: 50px;
+	width: 274px;
+	letter-spacing: 2px;
+}
+.body p{
+
+    padding-left: 52px;
+	letter-spacing: 2px;
+}
+.body .body-element-2 {
+	width: 1208px;
+	padding-left: 885px;
+	margin-top: -303px;
+	
+}
+.body .body-element-2 h1 {
+	font-size: 150px;
+	background-color: yellow;
+	border-radius: 75px;
+	height: 110px;
+	width: 114px;
+	margin-top: 13px;
+}
